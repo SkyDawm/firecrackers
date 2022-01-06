@@ -532,7 +532,7 @@
 	left: 38px;
 }
 
-.dear-joy .click-title {
+/* .dear-joy .click-title {
 	position: absolute;
 	top: -75px;
 	left: 5px;
@@ -540,7 +540,7 @@
 	height: 71px;
 	background: url(../images/dianpao.png) no-repeat;
 }
-
+ */
 .dear-joy.jump .joy-wrap {
 	-webkit-animation: jumpUp .5s cubic-bezier(0,.26,.4,1) infinite alternate;
 	animation: jumpUp .5s cubic-bezier(0,.26,.4,1) infinite alternate;
